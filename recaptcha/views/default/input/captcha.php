@@ -16,7 +16,7 @@
 	$theme = 'clean'; //get_plugin_setting('theme', 'recaptcha'); // 'red, white, blackglass, clean'
 	$customize_clean = true;	
 	
-	$widget_bg_color = '#97e2f6';
+	$widget_bg_color = '#DFF5FF';
 	$widget_border_color = '#72DCFA';
 	$input_border_color = '#DFF5FF';
 	$input_bg_color = '#FFFFFF';
